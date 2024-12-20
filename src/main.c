@@ -3,8 +3,6 @@
 #include <string.h>
 
 int main(){  //int argc, char **argv
-    //TODO implement a few test with random data
-    //the template for the my_malloc function doesn't have to follow the speficics
     char* mem1;
 	char* mem2;
 
